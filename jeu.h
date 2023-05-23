@@ -1,0 +1,2 @@
+void animation_logo();
+
