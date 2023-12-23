@@ -10,9 +10,9 @@
 Welcome to my SDL 1.2 game, an adventure and culture game that takes you on a journey through Tunisian history, with a special focus on the Roman Empire.
 # the game story 📚 
 <details>
-  <summary>Click to open !</summary>
+  <summary>Click to open !</summary/>
   
-  This is the text that will be shown when you click the summary.
+  
 <Grandfather Jack discovered that four precious history books were missing from his library, stolen by the notorious Witcher Morgan Le Fay. He called his grandson Sami and gave him a mission to retrieve the books. Sami had to travel through a time door in El Jamm and collect the books, facing monsters and book guardians along the way.
 
 Sami arrived at El Jamm and spoke some magical words to open the time door. He found himself in a magnificent amphitheater in the heart of the city forum. He overheard that the books were in a basement named the Holy Book, and he would have to face lions and monsters to find them.
