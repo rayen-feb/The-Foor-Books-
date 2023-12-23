@@ -52,13 +52,13 @@ This project was created by me, Ahmed Rayen Bouazizi, as part of my school proje
 
 ## game menu 🕹️🚪
  <div align="center"> <img src="https://github.com/rayen-feb/rayen.bouazizi-THE-FOUR-BOOKS-/assets/131598929/ee936b3d-68e1-480c-8832-31b979a6d7c2
-" alt="GitHub Logo" /></div>
+" alt="menu" /></div>
 
 
 
 ## tic tac toc ❌⭕
  <div align="center"> <img src="https://github.com/rayen-feb/rayen.bouazizi-THE-FOUR-BOOKS-/assets/131598929/f8750a3f-8779-4d41-855d-95ff5c35b962
-" alt="GitHub Logo" /></div>
+" alt="tic tac toc" /></div>
 
 
 
@@ -67,7 +67,7 @@ This project was created by me, Ahmed Rayen Bouazizi, as part of my school proje
 
 
  <div align="center"> <img src="https://github.com/rayen-feb/rayen.bouazizi-THE-FOUR-BOOKS-/assets/131598929/d12d7564-6b88-4cb1-8958-626721c55537
-" alt="GitHub Logo" /></div>
+" alt="puzzle" /></div>
 
 
 
