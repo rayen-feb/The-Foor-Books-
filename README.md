@@ -17,11 +17,17 @@ The game is developed using the SDL 1.2 library and written in the C programming
 This project was created by me, Ahmed Rayen Bouazizi, as part of my school project at ESPRIT University in the 2022-2023 academic year. I would like to express my gratitude to my teachers and ESPRIT for providing us with opportunities to be creative and innovative.
 
 ## Contact 📫
+For any inquiries or suggestions, feel free to reach out.
+
+Enjoy the game and happy learning!
+
+## game opening
+
 
 the game opening  with  our game name "THE FOOR BOOKS"
 https://github.com/rayen-feb/rayen.bouazizi-THE-FOUR-BOOKS-/assets/131598929/0b50c6b8-7268-485d-b078-550cc49de865
 the menu of the game 
-
+## game menu 
 
 https://github.com/rayen-feb/rayen.bouazizi-THE-FOUR-BOOKS-/assets/131598929/ee936b3d-68e1-480c-8832-31b979a6d7c2
 
