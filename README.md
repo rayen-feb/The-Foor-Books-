@@ -1,5 +1,5 @@
 
-https://github.com/rayen-feb/rayen.bouazizi-THE-FOUR-BOOKS-/assets/131598929/a4c5b1f3-54c3-4d4a-be7e-68df04c223fa
+
 # rayen.bouazizi
 1.2 SDL GAME 
 # Adventure and Culture Game: A Journey Through Tunisian History 👋
@@ -19,12 +19,7 @@ The game is developed using the SDL 1.2 library and written in the C programming
 This project was created by me, Ahmed Rayen Bouazizi, as part of my school project at ESPRIT University in the 2022-2023 academic year. I would like to express my gratitude to my teachers and ESPRIT for providing us with opportunities to be creative and innovative.
 
 ## into the game 👾  😊「 ✦ The Foor Books  ✦ 」
-
-
-
-Uploading Lecteur multimédia 2023-12-22 23-49-56.mp4…
-
-
+https://github.com/rayen-feb/rayen.bouazizi-THE-FOUR-BOOKS-/assets/131598929/a4c5b1f3-54c3-4d4a-be7e-68df04c223fa
 
 ## game opening ⚔️ 🕹
 
