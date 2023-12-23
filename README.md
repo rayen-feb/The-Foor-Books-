@@ -3,7 +3,6 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=E71616&center=true&random=false&width=435&lines=The+Foor+Books+;1.2++SDL+Game+" alt="Typing SVG" /></a>
  <div align="center"> <img src="https://github.com/rayen-feb/rayen.bouazizi-THE-FOUR-BOOKS-/assets/131598929/0b50c6b8-7268-485d-b078-550cc49de865" alt="GitHub Logo" width="400" height="150" /></div>
- 
 
 # rayen.bouazizi
 1.2 SDL GAME 
@@ -41,29 +40,36 @@ This project was created by me, Ahmed Rayen Bouazizi, as part of my school proje
 
 
 ## game opening ⚔️ 🕹
+  <div align="center"> <img src="https://github.com/rayen-feb/rayen.bouazizi-THE-FOUR-BOOKS-/assets/131598929/0b50c6b8-7268-485d-b078-550cc49de865" alt="GitHub Logo" /></div>
+ 
 
-https://github.com/rayen-feb/rayen.bouazizi-THE-FOUR-BOOKS-/assets/131598929/0b50c6b8-7268-485d-b078-550cc49de865
+
 
 ## into the game 👾  😊「 ✦ The Foor Books  ✦ 」
-
-https://github.com/rayen-feb/rayen.bouazizi-THE-FOUR-BOOKS-/assets/131598929/a4c5b1f3-54c3-4d4a-be7e-68df04c223fa
+ <div align="center"> <img src="https://github.com/rayen-feb/rayen.bouazizi-THE-FOUR-BOOKS-/assets/131598929/a4c5b1f3-54c3-4d4a-be7e-68df04c223fa
+" alt="GitHub Logo" /></div>
 
 
 ## game menu 🕹️🚪
+ <div align="center"> <img src="https://github.com/rayen-feb/rayen.bouazizi-THE-FOUR-BOOKS-/assets/131598929/ee936b3d-68e1-480c-8832-31b979a6d7c2
+" alt="GitHub Logo" /></div>
 
-https://github.com/rayen-feb/rayen.bouazizi-THE-FOUR-BOOKS-/assets/131598929/ee936b3d-68e1-480c-8832-31b979a6d7c2
+
 
 ## tic tac toc ❌⭕
+ <div align="center"> <img src="https://github.com/rayen-feb/rayen.bouazizi-THE-FOUR-BOOKS-/assets/131598929/f8750a3f-8779-4d41-855d-95ff5c35b962
+" alt="GitHub Logo" /></div>
 
 
-https://github.com/rayen-feb/rayen.bouazizi-THE-FOUR-BOOKS-/assets/131598929/f8750a3f-8779-4d41-855d-95ff5c35b962
+
 
 ## puzzle 🗝️
 
 
+ <div align="center"> <img src="https://github.com/rayen-feb/rayen.bouazizi-THE-FOUR-BOOKS-/assets/131598929/d12d7564-6b88-4cb1-8958-626721c55537
+" alt="GitHub Logo" /></div>
 
 
-https://github.com/rayen-feb/rayen.bouazizi-THE-FOUR-BOOKS-/assets/131598929/d12d7564-6b88-4cb1-8958-626721c55537
 
 
 
