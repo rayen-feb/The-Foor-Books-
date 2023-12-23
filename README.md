@@ -10,7 +10,7 @@
 Welcome to my SDL 1.2 game, an adventure and culture game that takes you on a journey through Tunisian history, with a special focus on the Roman Empire.
 # the game story 📚 
 <details>
-  <summary>Click to open !</summary/>
+  <summary>Click to open !</summary>
   
   
 <Grandfather Jack discovered that four precious history books were missing from his library, stolen by the notorious Witcher Morgan Le Fay. He called his grandson Sami and gave him a mission to retrieve the books. Sami had to travel through a time door in El Jamm and collect the books, facing monsters and book guardians along the way.
@@ -20,7 +20,9 @@ Sami snuck into the building at nightfall and defeated the guardians blocking hi
 Sami successfully solved the dragon's riddles and retrieved the book. He studied his map to find the time door that would take him to the next period. Sami set out on his journey, feeling more confident now that he had the first book.
 He arrived in Rome and found the book in the Colosseum, guarded by gladiators. Sami defeated them and retrieved the book. He traveled to Carthage and found the book in a temple, guarded by priests. Sami used his magical sword to defeat them and take the book.
 Finally, Sami arrived in Ottoman Turkey, where he found the book in a palace, guarded by soldiers. Sami fought bravely and defeated them, retrieving the final book. He returned to El Jamm and gave the books to his grandfather.
-Grandfather Jack was overjoyed and thanked Sami for his bravery. He reminded Sami of the power of knowledge and how important it is to preserve history. Sami realized that he had made history by completing his mission and felt proud of his accomplishment.>
+Grandfather Jack was overjoyed and thanked Sami for his bravery. He reminded Sami of the power of knowledge and how important it is to preserve history. Sami realized that he had made history by completing his mission and felt proud of his accomplishment.</details>
+
+
 
 
 ## About the Game 🎮
