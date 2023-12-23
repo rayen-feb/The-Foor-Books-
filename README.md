@@ -2,7 +2,7 @@
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=E71616&center=true&random=false&width=435&lines=The+Foor+Books+;1.2++SDL+Game+" alt="Typing SVG" /></a>
- <div align="left"> <img src="https://github.com/rayen-feb/rayen.bouazizi-THE-FOUR-BOOKS-/assets/131598929/0b50c6b8-7268-485d-b078-550cc49de865" alt="GitHub Logo" width="400" height="150" /></div>
+ <div align="center"> <img src="https://github.com/rayen-feb/rayen.bouazizi-THE-FOUR-BOOKS-/assets/131598929/0b50c6b8-7268-485d-b078-550cc49de865" alt="GitHub Logo" width="400" height="150" /></div>
  
 
 # rayen.bouazizi
