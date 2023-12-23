@@ -1,5 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D33131&background=1FFF1400&random=false&width=435&lines=THE+Foor+books+;AN++SDL+1.2+Game+" alt="Typing SVG" /></a>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=2&duration=5030&pause=1000&color=3C4FDD&background=1FFF1400&center=true&random=false&width=435&lines=THE+Foor+books+;AN++SDL+1.2+Game+" alt="Typing SVG" /></a>
+
 
 # rayen.bouazizi
 1.2 SDL GAME 
