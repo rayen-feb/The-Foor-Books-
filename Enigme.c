@@ -9,8 +9,8 @@
 #include <string.h>
 #include "resource_enigme/enigme.h"
 
-
-int nb_enigme=6;
+gdsg
+int nb_enigme=6;sdg
 
 
 
