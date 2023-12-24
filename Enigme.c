@@ -9,7 +9,7 @@
 #include "resource_enigme/enigme.h"
 
 
-int nb_enigme=6;
+int nb_enigme=6;sdg
 
 
 
