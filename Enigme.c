@@ -6,13 +6,7 @@
 #include <SDL/SDL_mixer.h>
 #include <SDL/SDL_ttf.h>
 #include <string.h>
-#include "resource_enigme/enigme.h"rtrty
-jgjg
-gdsg khgig
-
-int nb_enigme=6;sdg
-juyyguyg
-kjb
+#include <string.h>
 
 void Enigme()
 
