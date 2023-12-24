@@ -7,7 +7,7 @@
 #include <SDL/SDL_ttf.h>
 #include <string.h>
 #include <string.h>
-
+#include <string.h>
 void Enigme()
 
 
