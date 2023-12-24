@@ -23,6 +23,8 @@ pos.x=400;
 pos.y=400;
     int hauteur_fenetre = 700;
     int     largeur_fenetre = 1300;
+    int hauteur_fenetre = 700;
+    int     largeur_fenetre = 1300;
 
         //choisir type entite
         int t;
