@@ -15,6 +15,8 @@ void Enigme()
 
 int nb_enigme=4;
 SDL_Surface *win,*lost;
+    int hauteur_fenetre = 700;
+    int     largeur_fenetre = 1300;
 win=IMG_Load("resource_enigme/youWin1.png");
 lost=IMG_Load("resource_enigme/gameOver.png");
 SDL_Rect pos ;
