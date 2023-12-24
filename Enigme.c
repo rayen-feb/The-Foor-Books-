@@ -15,7 +15,7 @@ void Enigme()
 {
 
 int nb_enigme=4;
-    int nb_ertyrytrtrtytrytrrnigme=4;
+    int nb_ertyrytrtrtytrytrrtrytnigme=4;
 SDL_Surface *win,*lost;
     int hauteur_fenetre = 700;
     int     largeur_fenetre = 1300;
