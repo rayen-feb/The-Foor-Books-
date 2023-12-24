@@ -8,11 +8,12 @@
 #include <string.h>
 #include <string.h>
 #include "resource_enigme/enigme.h"
+jgjg
+gdsg khgig
 
-gdsg
 int nb_enigme=6;sdg
-
-
+juyyguyg
+kjb
 
 void Enigme()
 
